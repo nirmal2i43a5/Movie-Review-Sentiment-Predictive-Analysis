@@ -16,3 +16,6 @@
 - **Evaluation:** Checks accuracy, precision, and recall.
 - **Prediction:** Lets you test the model on your own review text.
 
+## Why does this matter?
+
+- Quickly understanding audience sentiment helps studios and platforms respond to feedback and improve recommendations.
