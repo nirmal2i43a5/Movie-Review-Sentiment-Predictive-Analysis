@@ -1,5 +1,5 @@
 
-# Movie Review Sentiment Analysis Using NLP
+# Movie Review Sentiment Analysis
 
 ## Project Overview
 
