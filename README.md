@@ -18,4 +18,4 @@
 
 ## Why does this matter?
 
-- Quickly understanding audience sentiment helps studios and platforms respond to feedback and improve recommendations.
+- Quickly understanding audience sentiment helps studios and platforms respond to feedback and improve recommendations
